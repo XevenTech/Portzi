@@ -5,7 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/xeventech/Portzi?style=social)
 [![YouTube Video Views](https://img.shields.io/youtube/views/fnHl-V2_8P4?style=social)](https://youtu.be/fnHl-V2_8P4)
 
-Minimal & Creative Portfolio/CV/Biodata Solution
+Responsive Personal Portfolio Website Built using HTML, CSS and JavaScript.
 
 [![Portfolio Demo](https://github.com/XevenTech/projects_snapshots/blob/main/Portzi/preview.png?raw=true "Portfolio Demo")](https://xeventech.github.io/Portzi/)
 
